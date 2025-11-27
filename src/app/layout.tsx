@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Droit devant",
-  description: "Droit devant",
+  description: "Trace ta ligne. Tient ton cap.",
 }
 
 export default function RootLayout({
